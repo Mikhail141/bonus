@@ -46,3 +46,4 @@ out/
 !**/src/main/**
 !**/src/test/**
 *src
+*Main.Java.bonus
